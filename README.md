@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--🧑‍💻 I am currently working on preparation for Oracle Java Associate Certification
--📚 I am learning Git and GitHub
+- 🧑‍💻 I am currently working on preparation for Oracle Java Associate Certification
+- 📚 I am learning Git and GitHub
 
 
 <!--
